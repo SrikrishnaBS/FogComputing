@@ -173,4 +173,4 @@ class Client:
 
 if __name__=="__main__":
     # You need to modify the IP to the actual IP of one of your running fog node
-    client = Client('192.168.1.9', 10000)
+    client = Client('34.245.177.173', 10000)
